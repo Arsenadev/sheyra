@@ -6,7 +6,7 @@
  */
 
 /** Unlock moment: 11 September 2026, 00:00 WIB (Asia/Jakarta, UTC+7). */
-export const UNLOCK_ISO = "2020-01-01T00:00:00+07:00";
+export const UNLOCK_ISO = "2026-09-11T00:00:00+07:00";
 export const UNLOCK_TIMESTAMP = new Date(UNLOCK_ISO).getTime();
 
 export const birthday = {
